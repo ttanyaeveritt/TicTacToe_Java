@@ -9,7 +9,7 @@ A very basic tic tac toe game displayed in command line. The game is played agai
 
 ### Built With
 
-* [Angular](https://angular.io/)
+* Java
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
