@@ -16,6 +16,10 @@ A very basic tic tac toe game displayed in command line. The game is played agai
 
 ### What I Learnt
 
+* How to implement the case switch function 
+* Creating function to call in the main, rather than writing all the code in the main
+* Logic for how to check if player has won and how the configure the computers next move
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
